@@ -37,7 +37,7 @@ Generador de mensajes configurables. Incluye un módulo para construcción diná
 * Uso de paquetes internos
 * Buenas prácticas de organización
 
-**Carpeta:** `01_Message_Generator/`
+**Carpeta:** `01_Message_Generator/` [Ir a la carpeta del proyecto](./01_Message_Generator/)
 
 ---
 
