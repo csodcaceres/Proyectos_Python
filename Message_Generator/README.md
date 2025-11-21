@@ -1,48 +1,93 @@
-# Message Generator
 
-Proyecto simple en Python para generar mensajes personalizados o
-dinámicos.
+# 📨 Message Generator
 
-## 📁 Estructura del proyecto
+Generador de mensajes personalizados en Python.  
+Este proyecto solicita datos al usuario (nombre y pasatiempo) y construye un mensaje de bienvenida utilizando una arquitectura modular y profesional.
 
-    Message_Generator/
-    ├── requirements.txt        # Dependencias del proyecto (si las hubiera)
-    └── src/
-        └── main.py             # Script principal del generador
+---
 
-## 🚀 Cómo usar
+## 🚀 Características
 
-1.  Cloná el repositorio:
+- Entrada interactiva mediante `input()`
+- Validación de datos del usuario
+- Limpieza y formateo del texto
+- Generación automática de un mensaje personalizado
+- Arquitectura modular usando:
+  - `main.py` → punto de entrada del programa
+  - `builder.py` → lógica principal
+  - `utils.py` → utilidades (validación y formateo)
 
-    ``` bash
-    git clone https://github.com/csodcaceres/Message_Generator.git
-    ```
+---
 
-2.  Instalá las dependencias (si requirements.txt contiene librerías):
+## 📂 Estructura del Proyecto
 
-    ``` bash
-    pip install -r requirements.txt
-    ```
+message_generator/
+├── src/
+│  ├── main.py
+│  └── generator/
+│    ├── init.py
+│    ├── builder.py
+│    └── utils.py
+└── README.md
 
-3.  Ejecutá el programa:
 
-    ``` bash
+---
+
+## 🛠️ Instalación
+
+Clonar el repositorio:
+
+    git clone https://github.com/csodcaceres/Proyectos_Python.git
+
+Ingresar al proyecto:
+
+    cd Proyectos_Python/message_generator
+
+
+---
+
+## ▶️ Ejecución
+
+Ejecutar el programa:
+
     python src/main.py
-    ```
 
-## ✨ Descripción
+## 💬 Ejemplo de Uso
 
-El script `main.py` contiene la lógica principal del generador de
-mensajes.\
-Podés adaptarlo para generar textos dinámicos, mensajes aleatorios o
-integrarlo con otros módulos.
+=== Message Generator ===
+Enter your name: Oscar
+Enter your favorite hobby: programar
 
-## 🤝 Contribuciones
+---- Welcome Message -----
+Hello Oscar!
+Welcome to the world of programming.
+It's great to know that you enjoy Programar.
+Get ready to explore and create amazing things!
 
-Las contribuciones son bienvenidas. Podés enviar un Pull Request o abrir
-un Issue con sugerencias.
+## 🧱 Módulos principales
+
+### **builder.py**
+Contiene la clase `MessageBuilder`, encargada de generar el mensaje final.
+
+### **utils.py**
+Incluye funciones auxiliares:
+- `validate_input()`
+- `format_text()`
+
+### **main.py**
+Controla el flujo del programa y gestiona la interacción con el usuario.
+
+---
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la licencia MIT.  
-Podés ver los detalles en el archivo `LICENSE`.
+Este proyecto está bajo la licencia MIT. Podés usarlo y modificarlo libremente.
+
+---
+
+## 👤 Autor
+
+**Oscar Caceres**  
+Desarrollador Python & Data Science  
+GitHub: https://github.com/csodcaceres  
+LinkedIn: (https://www.linkedin.com/in/oscardanielcaceres/)  
