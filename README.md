@@ -26,7 +26,7 @@ modular del código.
 Generador de mensajes personalizados con inputs del usuario y
 arquitectura modular.
 
-👉 [Message Generator](message_generator/)
+👉 [Message Generator](Message_Generator/)
 
 
 ## 📥 Cómo Clonar el Repositorio
