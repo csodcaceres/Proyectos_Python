@@ -1,67 +1,93 @@
-# Proyectos Python
 
-Este repositorio reúne una colección de proyectos desarrollados en Python, organizados de manera clara y profesional para facilitar su acceso, revisión y crecimiento a lo largo del tiempo.
+# 📨 Message Generator
 
-Cada proyecto cuenta con su propia carpeta independiente, incluyendo su README, código fuente y dependencias necesarias.
-
----
-
-## 📁 Estructura del repositorio
-
-```
-Proyectos_Python/
-│
-├── 01_Message_Generator/
-│   ├── README.md
-│   ├── requirements.txt
-│   └── src/
-│       ├── main.py
-│       ├── generator/
-│       │   ├── __init__.py
-│       │   ├── builder.py
-│       │   └── utils.py
-│
-└── (futuros proyectos...)
-```
+Generador de mensajes personalizados en Python.  
+Este proyecto solicita datos al usuario (nombre y pasatiempo) y construye un mensaje de bienvenida utilizando una arquitectura modular y profesional.
 
 ---
 
-## 🧩 Proyectos incluidos
+## 🚀 Características
 
-### **01. Message Generator**
-
-Generador de mensajes configurables. Incluye un módulo para construcción dinámica de mensajes y herramientas auxiliares. Ideal para practicar:
-
-* Estructuración de proyectos Python
-* Modularización
-* Uso de paquetes internos
-* Buenas prácticas de organización
-
-**Carpeta:** `01_Message_Generator/` [Ir a la carpeta del proyecto](./01_Message_Generator/)
+- Entrada interactiva mediante `input()`
+- Validación de datos del usuario
+- Limpieza y formateo del texto
+- Generación automática de un mensaje personalizado
+- Arquitectura modular usando:
+  - `main.py` → punto de entrada del programa
+  - `builder.py` → lógica principal
+  - `utils.py` → utilidades (validación y formateo)
 
 ---
 
-## 🚀 Objetivo del repositorio
+## 📂 Estructura del Proyecto
 
-Este repositorio está pensado para:
+message_generator/
+├── src/
+│  ├── main.py
+│  └── generator/
+│    ├── init.py
+│    ├── builder.py
+│    └── utils.py
+└── README.md
 
-* Mostrar proyectos de Python a reclutadores y empresas
-* Practicar buenas prácticas de desarrollo
-* Registrar el progreso como desarrollador Python
-* Centralizar ejercicios, prácticas y mini proyectos
-
----
-
-## 🛠 Tecnologías y herramientas utilizadas
-
-* Python 3.x
-* Git & GitHub
-* Buenas prácticas de organización de proyectos
 
 ---
 
-## 📌 Notas
+## 🛠️ Instalación
 
-Cada proyecto contiene su propia documentación, dependencias y ejemplos de uso dentro de su carpeta correspondiente.
+Clonar el repositorio:
 
-¡Este repositorio seguirá creciendo con nuevos proyectos Python!
+    git clone https://github.com/csodcaceres/Proyectos_Python.git
+
+Ingresar al proyecto:
+
+    cd Proyectos_Python/message_generator
+
+
+---
+
+## ▶️ Ejecución
+
+Ejecutar el programa:
+
+    python src/main.py
+
+## 💬 Ejemplo de Uso
+
+=== Message Generator ===
+Enter your name: Oscar
+Enter your favorite hobby: programar
+
+---- Welcome Message -----
+Hello Oscar!
+Welcome to the world of programming.
+It's great to know that you enjoy Programar.
+Get ready to explore and create amazing things!
+
+## 🧱 Módulos principales
+
+### **builder.py**
+Contiene la clase `MessageBuilder`, encargada de generar el mensaje final.
+
+### **utils.py**
+Incluye funciones auxiliares:
+- `validate_input()`
+- `format_text()`
+
+### **main.py**
+Controla el flujo del programa y gestiona la interacción con el usuario.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Podés usarlo y modificarlo libremente.
+
+---
+
+## 👤 Autor
+
+**Oscar Caceres**  
+Desarrollador Python & Data Science  
+GitHub: https://github.com/csodcaceres  
+LinkedIn: (https://www.linkedin.com/in/oscardanielcaceres/)  
