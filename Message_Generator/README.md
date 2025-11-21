@@ -23,11 +23,11 @@ Este proyecto solicita datos al usuario (nombre y pasatiempo) y construye un men
 
 message_generator/
 ├── src/
-│  ├── main.py
-│  └── generator/
-│    ├── init.py
-│    ├── builder.py
-│    └── utils.py
+│ ├── main.py
+│ └── generator/
+│ ├── init.py
+│ ├── builder.py
+│ └── utils.py
 └── README.md
 
 
