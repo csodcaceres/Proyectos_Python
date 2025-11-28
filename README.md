@@ -36,7 +36,7 @@ El objetivo es mostrar buenas prácticas, código limpio, modularidad y un creci
 
 ### 1️⃣ Message_Generator
 Generador modular de mensajes personalizados utilizando Programación Orientada a Objetos (OOP), validaciones y arquitectura limpia.<br>
-👉 [Message Generator](https://github.com/csodcaceres/Message_Generator)<br>
+👉 GitHub del proyecto: [Message Generator](https://github.com/csodcaceres/Message_Generator)<br>
 
 <br>
   
