@@ -1,55 +1,74 @@
 # 🐍 Proyectos en Python
 
-Este repositorio reúne una colección de proyectos desarrollados en Python con fines prácticos, educativos y demostrativos. Todos los proyectos están organizados en carpetas individuales, cada una con su propio código, documentación y dependencias cuando es necesario.
+Este repositorio reúne una colección de proyectos desarrollados en **Python** con fines
+**educativos, prácticos y demostrativos**, como parte de mi **portfolio profesional**.
 
-El objetivo es mostrar buenas prácticas, código limpio, modularidad y un crecimiento progresivo de habilidades en Python como parte de mi portfolio profesional.
+Los proyectos están orientados a reforzar fundamentos de programación,
+buenas prácticas, testing y análisis de datos, mostrando una evolución progresiva
+en complejidad y organización del código.
 
-## 🚀 Objetivo del Repositorio
+---
 
--   Presentar proyectos organizados y fáciles de navegar.
--   Demostrar conocimientos en Python, OOP, módulos y buenas prácticas.
--   Reunir ejercicios y proyectos reales de portfolio.
--   Servir como referencia para reclutadores y potenciales empleadores.
+## 🎯 Objetivo del repositorio
 
-## 📂 Estructura del Repositorio
+- Consolidar conocimientos en Python y Data Science
+- Aplicar buenas prácticas de desarrollo (estructura, modularidad, legibilidad)
+- Documentar proyectos de forma clara y profesional
+- Servir como portfolio para procesos de selección técnica
 
-    Proyectos_Python/  
-    │  
-    ├── 01_Message_Generator/  
-    │   ├── src/  
-    │   │   ├── main.py  
-    │   │   └── generator/  
-    │   │       ├── __init__.py  
-    │   │       ├── builder.py  
-    │   │       └── utils.py  
-    │   ├── README.md  
-    │   └── requirements.txt  
-    │  
-    ├── 02_Otro_Proyecto/  
-    │   └── ...  
-    │  
-    ├── LICENSE  
-    └── README.md  
+---
 
+## 📂 Estructura general
 
-## 📁 Proyectos Disponibles
+Cada proyecto se encuentra en su propia carpeta e incluye:
 
-### 1️⃣ Message_Generator
-Generador modular de mensajes personalizados utilizando Programación Orientada a Objetos (OOP), validaciones y arquitectura limpia.<br>
-👉 GitHub del proyecto: [Message Generator](https://github.com/csodcaceres/Message_Generator)<br>
+- Código fuente organizado
+- README con descripción y pasos para ejecución
+- Uso de funciones, módulos y separación de responsabilidades
+- En algunos casos, tests y archivos de configuración
 
+---
 
-## 📥 Cómo Clonar el Repositorio
+## 🚀 Proyectos
 
-    git clone https://github.com/csodcaceres/Nombre_Proyecto.git
+| Proyecto | Descripción | Tecnologías |
+|--------|-------------|-------------|
+| **01_Message_Generator** | Generador de mensajes con arquitectura modular y foco en buenas prácticas | Python |
+| **02_Simple_Calculator** | Calculadora en Python con funciones, validaciones y estructura clara | Python |
+| **03_Data_Analysis** | Análisis exploratorio de datos (EDA) y visualización | Pandas, Matplotlib |
+| **04_...** | Próximos proyectos en desarrollo | Python |
 
-## 👤 Autor
+> 📌 *La lista se irá ampliando a medida que se incorporen nuevos proyectos.*
 
-**Oscar Caceres**\
-Desarrollador Python & Data Science\
-GitHub: https://github.com/csodcaceres
+---
 
-## 📄 Licencia
+## 🛠️ Tecnologías utilizadas
 
-Este repositorio está publicado bajo la MIT License.
-Podés utilizar, modificar o compartir el código libremente citando la licencia correspondiente.
+- **Lenguaje:** Python
+- **Data Science:** Pandas, Matplotlib, Jupyter
+- **Testing:** Pytest
+- **Control de versiones:** Git, GitHub
+
+---
+
+## 📈 Enfoque de aprendizaje
+
+Este repositorio refleja un proceso de aprendizaje continuo, priorizando:
+
+- Código claro y legible
+- Estructura de proyectos realista
+- Documentación entendible
+- Mejora progresiva entre proyectos
+
+---
+
+## 📎 Perfil del autor
+
+👤 **Oscar Cáceres**  
+🐙 GitHub: https://github.com/csodcaceres  
+💼 LinkedIn: https://www.linkedin.com/in/oscardanielcaceres95b95771/
+
+---
+
+⭐ *Este repositorio forma parte de mi portfolio profesional.  
+Sugerencias y feedback son bienvenidos.*
