@@ -33,7 +33,8 @@ Cada proyecto se encuentra en su propia carpeta e incluye:
 
 | Proyecto | Descripción | Tecnologías |
 |--------|-------------|-------------|
-| **01_Message_Generator** | Generador de mensajes con arquitectura modular y foco en buenas prácticas | Python |
+| **[Message_Generator](https://github.com/csodcaceres/Message_Generator)** | Generador de mensajes con arquitectura modular, enfoque en buenas prácticas y estructura profesional | Python |
+
 | **02_...** | Próximos proyectos en desarrollo | Python |
 
 > 📌 *La lista se irá ampliando a medida que se incorporen nuevos proyectos.*
