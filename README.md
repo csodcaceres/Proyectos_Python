@@ -34,9 +34,7 @@ Cada proyecto se encuentra en su propia carpeta e incluye:
 | Proyecto | Descripción | Tecnologías |
 |--------|-------------|-------------|
 | **01_Message_Generator** | Generador de mensajes con arquitectura modular y foco en buenas prácticas | Python |
-| **02_Simple_Calculator** | Calculadora en Python con funciones, validaciones y estructura clara | Python |
-| **03_Data_Analysis** | Análisis exploratorio de datos (EDA) y visualización | Pandas, Matplotlib |
-| **04_...** | Próximos proyectos en desarrollo | Python |
+| **02_...** | Próximos proyectos en desarrollo | Python |
 
 > 📌 *La lista se irá ampliando a medida que se incorporen nuevos proyectos.*
 
