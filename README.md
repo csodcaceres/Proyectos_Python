@@ -91,7 +91,7 @@ pytest -v
 
 ## 👤 Autor
 
-**Oscar Cáceres**
+**Oscar Cáceres**  
 Python Developer | Data Science en formación
 
 * GitHub: [https://github.com/csodcaceres](https://github.com/csodcaceres)
