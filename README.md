@@ -99,10 +99,8 @@ Python Developer | Data Science en formación
 
 ---
 
-📌 *Este repositorio se actualiza de forma continua como parte de mi crecimiento profesional.*
+⭐ *Este repositorio forma parte de mi portfolio profesional.  
+Sugerencias y feedback son bienvenidos.*
 
 ---
 
-
-⭐ *Este repositorio forma parte de mi portfolio profesional.  
-Sugerencias y feedback son bienvenidos.*
