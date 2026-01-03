@@ -23,7 +23,7 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 
 | Proyecto | Descripción | Tecnologías |
 |--------|-------------|-------------|
-| **[Message_Generator](https://github.com/csodcaceres/Message_Generator)** | Generador de mensajes con arquitectura modular y enfoque en Programación Orientada a Objetos. | Python |
+| **[Message_Generator](https://github.com/csodcaceres/Welcome_Message_Generator)** | Generador de mensajes con arquitectura modular y enfoque en Programación Orientada a Objetos. | Python |
 | **02_...** | Próximos proyectos en desarrollo | Python |
 
 ---
