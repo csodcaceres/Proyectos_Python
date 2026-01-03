@@ -2,7 +2,9 @@
 
 Este repositorio reúne una colección de **proyectos desarrollados en Python** con fines prácticos, educativos y demostrativos.
 
-Forma parte de mi **portfolio profesional**, orientado a mostrar buenas prácticas de programación, diseño de software, testing y una evolución progresiva hacia roles de **Python Developer / Data Science**.
+Cada proyecto está organizado en su propia carpeta con código, documentación y ejemplos de uso.
+
+El objetivo es mostrar buenas prácticas, lógica clara y una evolución progresiva de habilidades en Python como parte de mi portfolio profesional.
 
 ---
 
@@ -34,15 +36,13 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 
 ## 🗂️ Estructura general
 
-```text
-Proyectos_Python/  
-├── Message_Generator/  
-│   ├── src/  
-│   ├── tests/  
+Proyectos_Python/
+├── Welcome_Message_Generator/  
+│   ├── main.py  
 │   └── README.md  
 ├── (futuros_proyectos)/  
+│   └── ...  
 └── README.md  
-```
 
 ---
 
