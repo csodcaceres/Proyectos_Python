@@ -1,19 +1,15 @@
 # 🐍 Proyectos en Python
 
-Este repositorio reúne una colección de **proyectos desarrollados en Python** con fines prácticos, educativos y demostrativos.
+Este repositorio reúne una colección de proyectos desarrollados en Python, organizados con una estructura clara y enfoque en buenas prácticas de programación. Cada proyecto se encuentra en su propia carpeta, con documentación e instrucciones para facilitar su comprensión y ejecución.
 
-Cada proyecto está organizado en su propia carpeta con código, documentación y ejemplos de uso.
-
-El objetivo es mostrar buenas prácticas, lógica clara y una evolución progresiva de habilidades en Python como parte de mi portfolio profesional.
-
----
+El objetivo es construir un portfolio profesional, mostrando la evolución de mis habilidades en Python, testing, análisis de datos y diseño de aplicaciones.
 
 ## 🎯 Objetivo del repositorio
 
-* Mostrar proyectos reales y bien estructurados
-* Aplicar buenas prácticas de desarrollo en Python
-* Documentar correctamente cada proyecto
-* Servir como portfolio técnico para procesos de selección
+* Consolidar conocimientos en Python mediante proyectos prácticos.
+* Aplicar principios de código limpio, modularidad y reutilización.
+* Incorporar testing automatizado y documentación técnica.
+* Servir como portfolio técnico para procesos de selección laboral.
 
 ---
 
@@ -65,10 +61,21 @@ pytest -v
 ## 🧠 Tecnologías y herramientas
 
 * Python
-* Pytest
-* Git & GitHub
+* pytest para testing
+* pandas para análisis de datos
+* matplotlib para visualizaciones
+* Jupyter Notebook
+* Git y GitHub para control de versiones
 * Virtual environments (`venv`)
 * Buenas prácticas de clean code
+
+---
+
+🧪 Testing
+
+En los proyectos que lo incluyen, los tests se ejecutan con:
+
+pytest -v
 
 ---
 
