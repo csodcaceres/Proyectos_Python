@@ -36,13 +36,9 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 
 ## 🗂️ Estructura general
 
-Proyectos_Python/
+Proyectos_Python/  
 ├── Welcome_Message_Generator/  
-│   ├── main.py  
-│   └── README.md  
-├── (futuros_proyectos)/  
-│   └── ...  
-└── README.md  
+└── (futuros_proyectos)/  
 
 ---
 
