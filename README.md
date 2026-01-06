@@ -26,7 +26,7 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 | Proyecto | Descripción | Tecnologías |
 |--------|-------------|-------------|
 | **[Welcome_Message_Generator
-](https://github.com/csodcaceres/Welcome_Message_Generator)** | Generador de mensajes de bienvenida que solicita al usuario su nombre y su hobby favorito, y luego muestra un mensaje personalizado en pantalla. | Python |
+](Welcome_Message_Generator)** | Generador de mensajes de bienvenida que solicita al usuario su nombre y su hobby favorito, y luego muestra un mensaje personalizado en pantalla. | Python |
 | **02_...** | Próximos proyectos en desarrollo | Python |
 
 ---
