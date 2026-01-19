@@ -34,9 +34,9 @@ El objetivo es mostrar buenas prácticas, código limpio, modularidad y un creci
 
 ## 📁 Proyectos Disponibles
 
-### 1️⃣ Message_Generator
-Generador modular de mensajes personalizados utilizando Programación Orientada a Objetos (OOP), validaciones y arquitectura limpia.<br>
-👉 GitHub del proyecto: [Message Generator](https://github.com/csodcaceres/Message_Generator)<br>
+### 1️⃣ csv_price_filter  
+Herramienta en Python para procesar archivos CSV que permite filtrar productos según un precio mínimo y generar un nuevo archivo con los resultados, usando funciones modulares y buenas prácticas básicas.<br>  
+👉 GitHub del proyecto: [csv_price_filter](https://github.com/csodcaceres/csv_price_filter)<br>
 
 
 ## 📥 Cómo Clonar el Repositorio
