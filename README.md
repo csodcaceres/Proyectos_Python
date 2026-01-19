@@ -21,7 +21,7 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Welcome_Message_Generator](https://github.com/csodcaceres/Welcome_Message_Generator) | Generador modular de mensajes de bienvenida personalizados. | Python |
+| [csv_price_filter](https://github.com/csodcaceres/csv_price_filter) | Herramienta en Python para leer, filtrar y generar archivos CSV según reglas de precio. | Python |
 | 02_... | Próximos proyectos en desarrollo | Python |
 
 ---
@@ -30,37 +30,7 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 
 ---
 
-## 🗂️ Estructura general
 
-    Proyectos_Python/  
-    │  
-    ├── 01_Message_Generator/  
-    │   ├── src/  
-    │   │   ├── main.py  
-    │   │   └── generator/  
-    │   │       ├── __init__.py  
-    │   │       ├── builder.py  
-    │   │       └── utils.py  
-    │   ├── README.md  
-    │   └── requirements.txt  
-    │  
-    ├── 02_Otro_Proyecto/  
-    │   └── ...  
-    │  
-    ├── LICENSE  
-    └── README.md  
-
-
-## 📁 Proyectos Disponibles
-
-### 1️⃣ Message_Generator
-Generador modular de mensajes personalizados utilizando Programación Orientada a Objetos (OOP), validaciones y arquitectura limpia.<br>
-👉 GitHub del proyecto: [Message Generator](https://github.com/csodcaceres/Message_Generator)<br>
-
-
-## 📥 Cómo Clonar el Repositorio
-
-    git clone https://github.com/csodcaceres/Nombre_Proyecto.git
 
 ## 👤 Autor
 
