@@ -1,17 +1,36 @@
 # 🐍 Proyectos en Python
 
-Este repositorio reúne una colección de proyectos desarrollados en Python con fines prácticos, educativos y demostrativos. Todos los proyectos están organizados en carpetas individuales, cada una con su propio código, documentación y dependencias cuando es necesario.
+Este repositorio reúne una colección de proyectos desarrollados en Python, organizados con una estructura clara y enfoque en buenas prácticas de programación. Cada proyecto se encuentra en su propia carpeta, con documentación e instrucciones para facilitar su comprensión y ejecución.
 
-El objetivo es mostrar buenas prácticas, código limpio, modularidad y un crecimiento progresivo de habilidades en Python como parte de mi portfolio profesional.
+El objetivo es construir un portfolio profesional, mostrando la evolución de mis habilidades en Python, testing, análisis de datos y diseño de aplicaciones.
 
-## 🚀 Objetivo del Repositorio
+## 🎯 Objetivo del repositorio
 
--   Presentar proyectos organizados y fáciles de navegar.
--   Demostrar conocimientos en Python, OOP, módulos y buenas prácticas.
--   Reunir ejercicios y proyectos reales de portfolio.
--   Servir como referencia para reclutadores y potenciales empleadores.
+* Consolidar conocimientos en Python mediante proyectos prácticos.
+* Aplicar principios de código limpio, modularidad y reutilización.
+* Incorporar testing automatizado y documentación técnica.
+* Servir como portfolio técnico para procesos de selección laboral.
 
-## 📂 Estructura del Repositorio
+---
+
+## 📂 Proyectos incluidos
+
+Cada proyecto se encuentra en su propia carpeta, con código, tests y documentación independiente.
+
+🔗 Repositorio / carpeta: `Message_Generator`
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Welcome_Message_Generator](https://github.com/csodcaceres/Welcome_Message_Generator) | Generador modular de mensajes de bienvenida personalizados. | Python |
+| 02_... | Próximos proyectos en desarrollo | Python |
+
+---
+
+> 🚧 Nuevos proyectos se irán agregando progresivamente a este repositorio.
+
+---
+
+## 🗂️ Estructura general
 
     Proyectos_Python/  
     │  
@@ -34,9 +53,9 @@ El objetivo es mostrar buenas prácticas, código limpio, modularidad y un creci
 
 ## 📁 Proyectos Disponibles
 
-### 1️⃣ csv_price_filter  
-Herramienta en Python para procesar archivos CSV que permite filtrar productos según un precio mínimo y generar un nuevo archivo con los resultados, usando funciones modulares y buenas prácticas básicas.<br>  
-👉 GitHub del proyecto: [csv_price_filter](https://github.com/csodcaceres/csv_price_filter)<br>
+### 1️⃣ Message_Generator
+Generador modular de mensajes personalizados utilizando Programación Orientada a Objetos (OOP), validaciones y arquitectura limpia.<br>
+👉 GitHub del proyecto: [Message Generator](https://github.com/csodcaceres/Message_Generator)<br>
 
 
 ## 📥 Cómo Clonar el Repositorio
@@ -45,11 +64,16 @@ Herramienta en Python para procesar archivos CSV que permite filtrar productos s
 
 ## 👤 Autor
 
-**Oscar Caceres**\
-Desarrollador Python & Data Science\
-GitHub: https://github.com/csodcaceres
+**Oscar Cáceres**  
+Python Developer | Data Science  
 
-## 📄 Licencia
+* GitHub: [https://github.com/csodcaceres](https://github.com/csodcaceres)
+* LinkedIn:  LinkedIn: https://www.linkedin.com/in/oscardanielcaceres95b95771/
 
-Este repositorio está publicado bajo la MIT License.
-Podés utilizar, modificar o compartir el código libremente citando la licencia correspondiente.
+---
+
+⭐ *Este repositorio forma parte de mi portfolio profesional.  
+Sugerencias y feedback son bienvenidos.*
+
+---
+
