@@ -22,7 +22,7 @@ Cada proyecto se encuentra en su propia carpeta, con código, tests y documentac
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [csv_price_filter](https://github.com/csodcaceres/csv_price_filter) | Herramienta en Python para leer, filtrar y generar archivos CSV según reglas de precio. | Python |
-| 02_... | Próximos proyectos en desarrollo | Python |
+| [csv_price_filter](https://github.com/csodcaceres/data_pipeline_with_pandas) | Pipeline básico de datos en Python: carga CSV, valida columnas, calcula métricas y exporta resultados filtrados. | Python |
 
 ---
 
